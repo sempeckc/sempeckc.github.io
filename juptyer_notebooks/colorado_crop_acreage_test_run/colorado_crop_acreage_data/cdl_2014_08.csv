@@ -1,0 +1,67 @@
+Value, Category, Count,  Acreage
+1, Corn, 5444623, 1210855.0
+4, Sorghum, 1432571, 318596.1
+5, Soybeans, 33957, 7551.9
+6, Sunflowers, 98440, 21892.5
+12, Sweet Corn, 16750, 3725.1
+13, Pop or Orn Corn, 2229, 495.7
+21, Barley, 266431, 59252.8
+22, Durum Wheat, 3988, 886.9
+23, Spring Wheat, 18169, 4040.7
+24, Winter Wheat, 12438638, 2766286.5
+25, Other Small Grains, 2098, 466.6
+27, Rye, 30354, 6750.6
+28, Oats, 118847, 26430.9
+29, Millet, 1360516, 302571.5
+30, Speltz, 1286, 286.0
+31, Canola, 14162, 3149.6
+33, Safflower, 5994, 1333.0
+36, Alfalfa, 5430494, 1207712.8
+37, Other Hay/Non Alfalfa, 3757296, 835602.5
+41, Sugarbeets, 97385, 21657.9
+42, Dry Beans, 182627, 40615.3
+43, Potatoes, 273935, 60921.7
+44, Other Crops, 12250, 2724.3
+47, Misc Vegs & Fruits, 373, 83.0
+48, Watermelons, 2573, 572.2
+49, Onions, 12935, 2876.7
+53, Peas, 1529, 340.0
+56, Hops, 349, 77.6
+57, Herbs, 129, 28.7
+58, Clover/Wildflowers, 227, 50.5
+59, Sod/Grass Seed, 10921, 2428.8
+60, Switchgrass, 738, 164.1
+61, Fallow/Idle Cropland, 9992533, 2222285.8
+66, Cherries, 4382, 974.5
+67, Peaches, 10302, 2291.1
+68, Apples, 11721, 2606.7
+69, Grapes, 2006, 446.1
+77, Pears, 2550, 567.1
+111, Open Water, 968521, 215393.9
+112, Perennial Ice/Snow, 669591, 148913.5
+121, Developed/Open Space, 4612010, 1025686.3
+122, Developed/Low Intensity, 2198402, 488912.8
+123, Developed/Medium Intensity, 1008021, 224178.5
+124, Developed/High Intensity, 278708, 61983.2
+131, Barren, 4058064, 902491.7
+141, Deciduous Forest, 21152731, 4704254.1
+142, Evergreen Forest, 62858676, 13979433.0
+143, Mixed Forest, 1068870, 237711.0
+152, Shrubland, 57434177, 12773053.5
+176, Grass/Pasture, 99181538, 22057443.1
+190, Woody Wetlands, 2159878, 480345.3
+195, Herbaceous Wetlands, 574546, 127776.0
+205, Triticale, 79424, 17663.5
+206, Carrots, 934, 207.7
+209, Cantaloupes, 1104, 245.5
+216, Peppers, 1837, 408.5
+222, Squash, 89, 19.8
+223, Apricots, 32, 7.1
+224, Vetch, 147, 32.7
+225, Dbl Crop WinWht/Corn, 14445, 3212.5
+226, Dbl Crop Oats/Corn, 762, 169.5
+229, Pumpkins, 4900, 1089.7
+236, Dbl Crop WinWht/Sorghum, 130890, 29109.2
+237, Dbl Crop Barley/Corn, 131, 29.1
+243, Cabbage, 2492, 554.2
+246, Radishes, 17, 3.8
